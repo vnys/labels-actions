@@ -1,0 +1,17 @@
+[
+  {
+    "name": "backlog",
+    "color": "ff9900",
+    "description": "The backlog"
+  },
+  {
+    "name": "bug",
+    "color": "ff0000",
+    "description": "Something isn’t working"
+  },
+  {
+    "name": "cdn",
+    "color": "00ff00",
+    "description": "Static assets"
+  }
+]
